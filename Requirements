@@ -1,0 +1,8 @@
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scikit-learn>=1.3.0
+notebook>=6.5.0
+
+The project dependencies are listed with minimum version requirements to ensure compatibility while allowing flexibility for newer library updates.
